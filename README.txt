@@ -4,4 +4,3 @@ this is example
 
 this
 is
-exampl
